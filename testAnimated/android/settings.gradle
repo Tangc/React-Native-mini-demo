@@ -1,0 +1,3 @@
+rootProject.name = 'testAnimated'
+
+include ':app'
